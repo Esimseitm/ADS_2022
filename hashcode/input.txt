@@ -1,0 +1,11 @@
+10
+abc
+def
+abc
+kkk
+def
+abc
+ppppp
+kkk
+ppppp
+abc
